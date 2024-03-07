@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## Meu nome é Bianca Nunes!
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Faço+faculdade+de+BICT+/+eng.+de+software+na+UFLA;Meu+passatempo+favorito+é+jogar;Como+aprender+javascript+em+2+horas;)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Faço+faculdade+de+BICT+/+eng.+de+software+na+UFLA;Meu+passatempo+favorito+é+jogar;Como+aprender+javascript+em+2+horas+google+pesquisar;Como+não+perder+a+cabeça+em+cálculo+1?;)](https://git.io/typing-svg)
 
 <div>
 <a href="https://instagram.com/nunesbi._" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
