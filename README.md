@@ -1,5 +1,5 @@
-### Hi there 👋
-## Meu nome é Bianca Nunes!
+### Hey yo 👋
+## u can call me Bianquinha
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Software+engineering+student+at+UFLA;Como+aprender+javascript+em+2+horas+google+pesquisar;Como+não+perder+a+cabeça+em+física?;) 
 
