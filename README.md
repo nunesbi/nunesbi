@@ -12,7 +12,7 @@
 
 ### Studying in this moment:
 ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)&nbsp;
 
 <div align="center">
   <a href="https://github.com/nunesbi">
