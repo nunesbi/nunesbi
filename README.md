@@ -1,7 +1,7 @@
 # Bianca Nunes  
 
 > software engineering student  
-> turning coffee into code ☕  
+> turning energy into code 👩🏻‍💻  
 
 ---
 
