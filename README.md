@@ -1,47 +1,65 @@
-### hey yo 👋  
-## you can call me Bianquinha ✨  
+# Bianca Nunes  
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Software+Engineering+student+at+UFLA;Future+full-stack+developer;Building+cool+stuff+with+code;Turning+caffeine+into+deploys☕🚀" />
-
----
-
-### 💻 about me
-- 🎓 Software Engineering student at UFLA  
-- 🧠 curious about tech, systems & problem solving  
-- ⚡ president of AAAE Aguçada  
-- 🚀 learning something new every single day  
+Software Engineering Student | UFLA  
+Future Full-Stack Developer  
 
 ---
 
-### 🌐 connect with me
+## About Me
 
-<div>
-<a href="https://instagram.com/nunesbi._" target="_blank">
-<img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
+I’m a Software Engineering student at UFLA with a strong interest in systems development, problem solving and technology-driven solutions.  
 
-<a href="https://www.twitch.tv/n1n3z__" target="_blank">
-<img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
-</a>
+Currently building a solid foundation in programming, databases and software development practices, while continuously improving analytical and logical reasoning skills.  
 
-<a href="mailto:bianca.nunes@estudante.ufla.br">
-<img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+I value organization, leadership and collaboration — and I’m always looking for opportunities to apply technical knowledge in real projects.
 
-<a href="https://www.linkedin.com/in/bianca-20-nunes/" target="_blank">
-<img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>   
+---
+
+## Current Focus
+
+- Software Development Fundamentals  
+- Databases & SQL  
+- C / C# Programming  
+- Git & Version Control  
+- Problem Solving & Algorithms  
+
+---
+
+## Technologies & Tools
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=nunesbi&show_icons=true&theme=default&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunesbi&layout=compact&theme=default&hide_border=true"/>
+
 </div>
 
 ---
 
-### 📚 currently studying
-![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## Leadership & Activities
+
+- President of AAAE Aguçada (Engineering Academic Association)  
+- Active in student organization and project coordination  
+- Interested in technology communities and collaborative development  
 
 ---
 
+## Contact
 
-✨ still figuring things out, but shipping anyway.
+[LinkedIn](https://www.linkedin.com/in/bianca-20-nunes/)  
+Email: bianca.nunes@estudante.ufla.br  
+
+---
+
+*Always learning. Always building.*
